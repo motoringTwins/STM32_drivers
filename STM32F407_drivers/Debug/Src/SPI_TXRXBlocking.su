@@ -1,0 +1,10 @@
+SPI_TXRXBlocking.c:36:6:delay	16	static
+SPI_TXRXBlocking.c:42:9:CmdIDReadAdruino	24	static
+SPI_TXRXBlocking.c:77:9:CmdPrintAdruino	24	static
+SPI_TXRXBlocking.c:114:9:CmdLedctrlAdruino	24	static
+SPI_TXRXBlocking.c:147:9:CmdReadAnalogAdruino	24	static
+SPI_TXRXBlocking.c:186:9:CmdReadLedAdruino	24	static
+SPI_TXRXBlocking.c:223:6:GPIO_ButtonCfg	24	static
+SPI_TXRXBlocking.c:244:6:SPI2_PinCfg	24	static
+SPI_TXRXBlocking.c:278:6:SPI2_InitConfig	32	static
+SPI_TXRXBlocking.c:297:5:main	80	static
